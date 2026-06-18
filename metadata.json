@@ -1,0 +1,6 @@
+{
+  "name": "Portfólio de Arquitetura",
+  "description": "Um portfólio minimalista em preto e branco para arquitetura e interiores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
